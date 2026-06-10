@@ -37,10 +37,12 @@ The tool scans all files in a selected folder, checks their file extensions, and
 ## 📸 Screenshots
 
 ### Main Interface
-(Add screenshot here)
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/f809a644-aed4-4244-b01e-19a5ba321523" />
+
 
 ### After Organizing Files
-(Add screenshot here)
+<img width="1280" height="1024" alt="image" src="https://github.com/user-attachments/assets/537e35df-b0bd-4225-9272-62bd17f3b209" />
+
 
 ---
 
